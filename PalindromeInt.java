@@ -1,5 +1,3 @@
-import java.util.Scanner; 
-
 public class PalindromeInt{
 
      public static void main(String []args){
